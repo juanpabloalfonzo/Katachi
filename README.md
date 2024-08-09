@@ -1,5 +1,4 @@
-
-![Katachi_Logo](https://github.com/juanpabloalfonzo/Katachi/assets/70420022/c49c77a2-976f-4883-a538-de4e0b53cb37)
+![Katachi_Logo_Round](https://github.com/user-attachments/assets/a7fcaf19-9a7f-407e-b2da-be62539b2eea)
 
 
 WIP Repo for the Katachi method to understand how the morphology of galaxies is linked to their star formation histories (SFHs)
